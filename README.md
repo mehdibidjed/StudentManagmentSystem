@@ -1,0 +1,2 @@
+# StudentManagmentSystem
+MiniProjet Version Groupe
